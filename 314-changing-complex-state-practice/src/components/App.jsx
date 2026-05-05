@@ -47,8 +47,7 @@ function App() {
         onChange={handleChange} 
         placeholder="First Name" 
         value={contact.fName}/>
-        <input n
-        ame="lName" 
+        <input name="lName" 
         onChange={handleChange} 
         placeholder="Last Name" 
         value={contact.lName}/>
